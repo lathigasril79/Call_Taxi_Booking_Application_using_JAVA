@@ -21,7 +21,12 @@ A Java-based taxi booking application that manages taxi allocations, bookings, a
 
 ## Project Structure
 TaxiBookingSystem/
+
 ├── NoServiceAvailableException.java
+
 ├── Taxi.java
+
 ├── TaxiApp.java
+
 └── TaxiAppDemo.java
+
